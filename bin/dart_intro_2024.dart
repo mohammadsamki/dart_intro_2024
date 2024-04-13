@@ -42,4 +42,5 @@ void main() {
   print(x);
   x = 10;
   print(x);
+  //  create 10 map that contain all the previous datatype 
 }
